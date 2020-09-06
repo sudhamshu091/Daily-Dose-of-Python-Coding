@@ -1,0 +1,3 @@
+Write a Python function that takes a positive integer and returns the sum of the cube of all the positive integers smaller than the specified number.
+
+Ex.: 8 = 73+63+53+43+33+23+13 = 784
