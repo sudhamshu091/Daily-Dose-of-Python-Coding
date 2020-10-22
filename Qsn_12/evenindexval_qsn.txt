@@ -1,0 +1,1 @@
+A string is taken as an input, print those characters which are present at an even index number.(example:sudhamshu, then print 's','d','a','s','u'
