@@ -1,1 +1,5 @@
 Two equal sized lists of numbers is given to you, create a set such that it shows the element from both lists in the pair
+ex:
+list1 = [1,2,3,4,5,6,7,8]
+list2 = [11,12,13,14,15,16,17,18]
+o/p: {(1,11),(2,12),(3,13),(4,14),(5,15),(6,16),(7,17),(8,18)}
