@@ -1,2 +1,0 @@
-Remove duplicate from a list and create a tuple and find the minimum and maximum number
-list=[87, 45, 41, 65, 94, 41, 99, 94],tuple=(87, 45, 41, 65, 99),minimum:41,maximum:99
