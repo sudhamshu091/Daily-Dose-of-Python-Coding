@@ -1,0 +1,6 @@
+print("Enter input a, b, c, d:")
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+print([[a, b, c, d],[d+1, c-1, b-3, a+3],[b-2, a+2, d+2, c-2],[c+1, d-1, a+1, b-1]])
