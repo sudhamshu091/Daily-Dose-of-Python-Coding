@@ -1,0 +1,1 @@
+Write a program to handle the exception of FileNotFoundError when you don't have a file in the working directory.If file is there then read the file.After reading file finally close the file.
