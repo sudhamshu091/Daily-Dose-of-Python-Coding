@@ -1,5 +1,0 @@
-def fraction(value, index):
-    array = [4,5,2,0]        #list of numbers
-    index_val = array[index] # if index is > array length, Indexerror occurs 
-    value/index_val          # if index value is 0 ,ZeroDivisionError occurs
-This is a function which has some exceptions in some cases, use exception handling to display appropriate error messages for the exceptions.[for Indexerror, ZeroDivisionEror and other Exceptions totally.
