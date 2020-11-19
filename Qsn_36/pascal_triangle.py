@@ -1,5 +1,5 @@
 def pascal_tringle(n):
-    list =  []
+    list = []
     for i in range(n):
         list.append([])
         list[i].append(1)
