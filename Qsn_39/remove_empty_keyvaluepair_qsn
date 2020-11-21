@@ -1,2 +1,2 @@
-Python program to remove empty Items which have value as 'None'and'0' from a given Dictionary.
+Python program to remove empty Items which have value as 'None'or '0' from a given Dictionary.
 ex: {'Sudhamshu': '091', 'Akash': '093', 'Rajasudhan': None,'Vaishakh':'092','Naveen': 0},  output: {'Sudhamshu': '091', 'Akash': '093', 'Vaishakh':'092'}
