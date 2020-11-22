@@ -1,0 +1,9 @@
+Python program to replace dictionary values with their average.
+example:
+i/p:
+[{'id' : 91, 'subject' : 'python', 'CIE1' : 48, 'CIE2' : 48, 'CIE3':45},
+ {'id' : 92, 'subject' : 'python', 'CIE1' : 46, 'CIE2' : 42, 'CIE3':44},
+ {'id' : 93, 'subject' : 'python', 'CIE1' : 43, 'CIE2' : 47, 'CIE3':49}]
+o/p:
+[{'id': 91, 'subject': 'python', 'CIE1 + CIE2 + CIE3': 47.0}, {'id': 92, 'subject': 'python', 'CIE1 + CIE2 + CIE3': 44.0}, {'id': 93, 'sub
+ject': 'python', 'CIE1 + CIE2 + CIE3': 46.333333333333336}]
