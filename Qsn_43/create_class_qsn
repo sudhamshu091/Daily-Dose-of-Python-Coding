@@ -1,0 +1,1 @@
+Create a class Attendence and its two child classes: Present and Absent. All classes have a method "getAttendence" which can print "Present" for Present class and "Absent" for Absent class.
