@@ -1,0 +1,9 @@
+Write a program which counts and prints the numbers of each character in a string input by console and finds the probability of occurrence.
+ex:
+Enter the input string:sudhamshu
+s,2 with Probability :0.2222222222222222
+u,2 with Probability :0.2222222222222222
+d,1 with Probability :0.1111111111111111
+h,2 with Probability :0.2222222222222222
+a,1 with Probability :0.1111111111111111
+m,1 with Probability :0.1111111111111111
