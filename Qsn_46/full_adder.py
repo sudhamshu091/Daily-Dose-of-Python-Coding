@@ -15,10 +15,6 @@ def XOR(a,b): #defines the XOR Gate
         return int(True)
     else:
         return int(False)
-        
-def fulladder(a, b):
-    AND(a,b)
-    XOR(a,b)
 
 a = bool(int(input("a: "), 2))
 b = bool(int(input("b: "), 2))
