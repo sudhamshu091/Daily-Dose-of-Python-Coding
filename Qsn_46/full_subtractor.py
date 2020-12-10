@@ -21,10 +21,6 @@ def NOT(a):
     else:
         return int(True)
 
-def fulladder(a, b):
-    AND(a,b)
-    XOR(a,b)
-
 a = bool(int(input("a: "), 2))
 b = bool(int(input("b: "), 2))
 c = bool(int(input("bin: "), 2))
