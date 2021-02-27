@@ -1,0 +1,7 @@
+Write a program which returns true if a given number is a super palindrome.
+superpalindrome: if number and its square are both palindrome
+ex:
+11, 11^2 = 121, True
+12, 12^2 = 144, False
+121, 121^2 = 14641, True
+868, 868^2 = 753424, False
