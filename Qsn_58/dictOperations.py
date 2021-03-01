@@ -5,7 +5,7 @@ class Solution:
         d4 = {}
         for d in (d1,d2,d3):
             d4.update(d)
-        descending_sorted = dict(sorted(d4.items(), key = operator.itemgetter(0), reverse = True))
+        descending_sorted = dict(sorted(d4.items(), key = operator.itemgetter(0), reverse = True)) #itemgetter(1) for sorting according to values
         ascending_sorted = dict(sorted(d4.items(), key = operator.itemgetter(0)))
         return ascending_sorted,descending_sorted
 
