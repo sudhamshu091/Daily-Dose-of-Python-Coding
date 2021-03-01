@@ -4,4 +4,4 @@ d2 = {3:10,4:50}
 d3 = {5:40,6:60}
 add a key 7:70 to d1 dictionary.
 concatenate all dictionaries to create a new one.
-Sort the dictionary according to the key.
+Sort the dictionary according to the key and also values.
