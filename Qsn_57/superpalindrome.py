@@ -1,4 +1,5 @@
 class Solution:
+    
     def superpalindrome(self, L, R):
         l, u = int(L) ** 0.5, int(R) ** 0.5
         sq, answer = ['1', '2'], int(l <= 3 <= u)
