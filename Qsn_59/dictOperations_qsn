@@ -1,0 +1,9 @@
+Write a Python program to check whether a given key already exists in a dictionary and remove that duplicate from dictionary,then sort it (according to value or key) and print result, next replace all values with key*key ,print result
+i/p:{1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60},4
+o/p:Given key was there, Now deleted
+    {1: 10, 2: 20, 3: 30, 5: 50, 6: 60}
+    {1: 1, 2: 4, 3: 9, 5: 25, 6: 36}
+i/p:{1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60},7
+o/p:Given key wasn't there
+    {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+    {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36}
