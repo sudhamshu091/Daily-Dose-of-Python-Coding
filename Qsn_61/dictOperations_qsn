@@ -1,0 +1,6 @@
+given two lists with keys and values map the values to a dictionary. // Let the values be integers
+Sort the dictionary according to key and print the same.
+Get the minimum and maximum values of the dictionary.
+
+
+
