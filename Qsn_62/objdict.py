@@ -1,4 +1,5 @@
 class objdict:
+
     def __init__(self):
         self.name = 'Sudhamshu'
         self.initial = 'B N'
@@ -6,6 +7,7 @@ class objdict:
         self.degree = 'BE'
         self.college = 'DSCE'
         self.cgpa = '8.67'
+
     def pass_method(self):
         pass
 
