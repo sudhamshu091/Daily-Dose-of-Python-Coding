@@ -1,4 +1,4 @@
-Write a program for dictionary with key value 1 to n,and values are square of keys.
+Write a program for a dictionary with key value 1 to n,and values are square of keys.
 Next merge dictionary with {'a': 100, 'b': 200} // Any dict can be given, generalize
 Iterate and print all key,value pairs in a sentence
 Remove the key,value where datatype is string that is {'a': 100, 'b': 200}
