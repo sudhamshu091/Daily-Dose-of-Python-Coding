@@ -1,4 +1,5 @@
 class Solution:
+
     def listtodict(self,list1,list2):
         return dict(zip(list1,list2))
 
