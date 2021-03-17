@@ -5,6 +5,7 @@ def odd_product(number):
                 product = number[i] * number[j]
                 if (product % 2) & 1:
                     return True
+
 #test cases                
 #print(odd_product([1,6,4,7,8]))
 #print(odd_product([2,4,6,8]))
